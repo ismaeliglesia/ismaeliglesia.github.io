@@ -3,7 +3,7 @@ title: "Lecture in Bioinformatics"
 collection: teaching
 type: "Master in Human Precision Genomics"
 permalink: /teaching/2014-spring-teaching-1
-venue: "UNIR, Department"
+venue: "UNIR"
 date: 2024-Act
 location: "In remote"
 ---
