@@ -1,5 +1,5 @@
 ---
-title: "Lecture in Bioinformatics"
+title: "Lecturer in Bioinformatics"
 collection: teaching
 type: "Master in Human Precision Genomics"
 permalink: /teaching/bioinformatics
