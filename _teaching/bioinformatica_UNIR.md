@@ -2,9 +2,9 @@
 title: "Lecturer in Bioinformatics"
 collection: teaching
 type: "Master in Human Precision Genomics"
-permalink: /teaching/bioinformatics
-venue: "UNIR"
-date: 2024
+permalink: /teaching/bioinformatica_UNIR
+venue: "Universidad Internacional de La Rioja"
+period: "2024-Act"
 location: "In remote"
 ---
 
