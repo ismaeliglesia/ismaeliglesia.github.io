@@ -4,7 +4,7 @@ collection: teaching
 type: "Master in Human Precision Genomics"
 permalink: /teaching/bioinformatics
 venue: "UNIR"
-date: "2024-Act"
+date: 2024
 location: "In remote"
 ---
 
