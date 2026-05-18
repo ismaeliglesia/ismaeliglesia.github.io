@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 1"
+title: "Lecture in Bioinformatics"
 collection: teaching
-type: "Undergraduate course"
+type: "Master in Human Precision Genomics"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "UNIR, Department"
+date: 2024-Act
+location: "In remote"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Bioinformatics lecturer in a Master’s program in Precision Human Genomics, focused on training students in the analysis and interpretation of high-throughput sequencing data. Responsible for teaching core concepts in NGS data processing, statistical genomics and computational methods for precision medicine applications, guiding students and clinicians through real-world genomic datasets. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Strong focus on bridging computational genomics with clinical decision-making, enabling clinicians to better understand the analytical potential and limitations of their data in research and healthcare settings.
