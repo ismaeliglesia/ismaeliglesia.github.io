@@ -5,7 +5,7 @@ type: "Master in Human Precision Genomics"
 permalink: /teaching/bioinformatica_UNIR
 venue: "Universidad Internacional de La Rioja"
 start: 2024
-end: present
+end: "present"
 location: "Remote"
 ---
 
