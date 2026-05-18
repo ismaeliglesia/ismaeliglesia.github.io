@@ -4,8 +4,9 @@ collection: teaching
 type: "Master in Human Precision Genomics"
 permalink: /teaching/bioinformatica_UNIR
 venue: "Universidad Internacional de La Rioja"
-period: "2024-Act"
-location: "In remote"
+start: 2024
+end: present
+location: "Remote"
 ---
 
 Bioinformatics lecturer in a remote setup, training students in the analysis and interpretation of high-throughput sequencing data (genomics, epigenomics, transcriptomics) and machine learning basic concepts. 
