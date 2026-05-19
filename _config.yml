@@ -21,7 +21,7 @@ repository               : "ismaeliglesia/ismaeliglesia.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpeg"
+  avatar           : "picture1.png"
   name             : "Ismael de la Iglesia-San Sebastián"
   bio              : "Bioinformatician · Computational Biology · Multi-omics · Machine Learning"
   location         : "Madrid, Spain"
