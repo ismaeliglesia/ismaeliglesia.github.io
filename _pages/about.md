@@ -15,5 +15,5 @@ This work has been conducted under the supervision of [Dr. Carolina Martínez-La
 
 Contact
 =======
-If you want to contact me, please send me an email to ismael.iglesia.sansebastian@gmail.com or through [LinkedIn](www.linkedin.com/in/ismael-de-la-iglesia).
+If you want to contact me, please send me an email to ismael.iglesia.sansebastian@gmail.com or through [LinkedIn](ismael-de-la-iglesia).
 
