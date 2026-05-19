@@ -47,6 +47,12 @@ Skills
 - __Omics data analysis:__ Transcriptomics (bulk RNA-seq, single-cell RNA-seq) and genomics (CAPP-seq of cell-free DNA, targeted NGS panels for somatic and germline mutations).
 - __Machine learning:__ Supervised (CNN, RNN, QDA, NBC, RF, GBM, L1/L2 regularization)  and unsupervised (PCA, UMAP, t-SNE, clustering) algorithms for biomarler discovery and modelling.
 
+Funding
+======
+- Identification of transcriptomic biomarkers in T lymphocytes for predicting progression and toxicities associated with chimeric antigen receptor T-cell (CAR-T) therapy in patients with high-grade B-cell lymphomas. Madrid Community. PIPF-2022-SAL-GL-24713.
+- Specific mutation signature traceable through circulating tumor DNA combined with PET/CT to predict CAR-T cell therapy failure in patients with relapsed or refractory large B-cell lymphoma. Health Research Institute Carlos III. PI22/01609 (207,500€). Collaborating researcher.
+- Multi-omic identification (genomic and single-cell transcriptomic) of predictive biomarkers of efficacy and toxicity to optimize patient selection for CAR-T therapy in candidates with B-cell lymphoma. Health Research Institute Carlos III. PI24/01057 (244,000€). Collaborating researcher.
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
